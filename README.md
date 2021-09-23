@@ -2,7 +2,7 @@
 
 🧙 My name is Pedro, I'm a brazilian student and developer.<br>
 🏫 Currently taking the bachelor's degree in Computer Science at Federal University of Rio de Janeiro.<br>
-💻 Working with software development and network infraestructure at <a target='_blank' href='https://github.com/hostnetbr'>@hostnetbr</a>.
+💻 Working with software development and network infraestructure at <a target="_blank" href='https://github.com/hostnetbr'>@hostnetbr</a>.
 
 You can reach me at <a href="mailto:web.pedrodejesus@gmail.com" alt="Gmail">web.pedrodejesus@gmail.com</a>.
 
